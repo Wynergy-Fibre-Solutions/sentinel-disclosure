@@ -1,0 +1,41 @@
+{
+  "wfsl_verification": "WFSL-LOCAL-VERIFY-v1",
+  "repo": {
+    "path": "C:\\Users\\Paul Wynn\\github\\sentinel-disclosure",
+    "remote": "https://github.com/Wynergyy/sentinel-disclosure.git",
+    "head": "2f26caaa6b119c56613312ba69e43c3e79178c26"
+  },
+  "timestamp_utc": "2026-01-17T23-27-01-308Z",
+  "checks": {
+    "required_files_present": true,
+    "missing_files": [],
+    "license_apache_2_0_detected": true
+  },
+  "artifacts": {
+    "required_files": [
+      {
+        "path": "LICENSE",
+        "exists": true,
+        "sha256": "93dd331288241a2f60e1ae354af7bfc4fe3807e7eb9543b31767e99586536fd4"
+      },
+      {
+        "path": "README.md",
+        "exists": true,
+        "sha256": "40f6d864788932b6cb977155ade9c38ca6db29b2e7c64607d3d1407853270b17"
+      },
+      {
+        "path": "GOVERNANCE.md",
+        "exists": true,
+        "sha256": "e42815ff18d17b70e5dc7206b205a9288c762ad5a79dab715b97aad135fccdb7"
+      },
+      {
+        "path": "VERIFICATION.md",
+        "exists": true,
+        "sha256": "71f2b672ac3665cd6e31c8c6ebc5a7cb967167def1c2acf7bdb00bc4db3dc51b"
+      }
+    ]
+  },
+  "outcome": {
+    "pass": true
+  }
+}
